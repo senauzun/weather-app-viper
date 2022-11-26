@@ -1,9 +1,6 @@
 # weather-app-viper
 
 
-
-
-
 Swift:
 - Protocol
 - TableView
